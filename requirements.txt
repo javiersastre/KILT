@@ -1,0 +1,10 @@
+bs4==0.0.1
+flair==0.11.3
+jsonlines==3.1.0
+nltk==3.7
+prettytable==3.5.0
+pymongo==4.3.2
+rouge==1.0.1
+spacy==3.4.2
+torch==1.13.0
+tqdm==4.64.1
